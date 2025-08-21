@@ -15,10 +15,10 @@ from hplib import hplib as hpl
 # Plots
 import plotly_express as px
 
-from utils.calc_szenarios import calc_kpi
-from utils.calc_szenarios import calc_costs_strom
-from utils.calc_szenarios import calc_costs_gas
-from utils.calc_szenarios import calc_bs_peakshaving
+from app.utils.calc_szenarios import calc_kpi
+from app.utils.calc_szenarios import calc_costs_strom
+from app.utils.calc_szenarios import calc_costs_gas
+from app.utils.calc_szenarios import calc_bs_peakshaving
 
 
 # App configuration
