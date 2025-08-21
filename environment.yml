@@ -1,0 +1,6 @@
+name: vdi-4657-3-webtool
+dependencies:
+- python=3.9
+- pip
+- pip:
+   - -r requirements.txt
